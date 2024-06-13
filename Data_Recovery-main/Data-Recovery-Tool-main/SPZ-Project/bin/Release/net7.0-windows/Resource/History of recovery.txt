@@ -1,0 +1,36 @@
+Date: 2023-06-08 20:55:18		Source: C:\		Destination: D:\		Mode: /regular		Requested Data Types :  /n *.*						Request : winfr C: D:\ /regular /n *.*
+Date: 2023-06-08 21:44:40		Source: D:\		Destination: C:\		Mode: /regular		Requested Data Types :  /n *.*						Request : winfr D: C:\ /regular /n *.*
+Date: 2023-06-08 22:01:12		Source: D:\		Destination: C:\		Mode: /regular		Requested Data Types :  /n *.*						Request : winfr D: C:\ /regular /n *.*
+Date: 2023-06-10 23:37:19		Source: C:\		Destination: D:\		Mode: /regular		Requested Data Types :  /n *.*						Request : winfr C: D:\ /regular /n *.*
+Date: 2023-06-10 23:47:53		Source: C:\		Destination: D:\		Mode: /regular		Requested Data Types :  /n *.*						Request : winfr C: D:\ /regular /n *.*
+Date: 2023-06-10 23:48:17		Source: C:\		Destination: D:\		Mode: /regular		Requested Data Types :  /n *.*						Request : winfr C: D:\ /regular /n *.*
+Date: 2023-06-10 23:48:18		Source: C:\		Destination: D:\		Mode: /regular		Requested Data Types :  /n *.*						Request : winfr C: D:\ /regular /n *.*
+Date: 2023-06-10 23:48:19		Source: C:\		Destination: D:\		Mode: /regular		Requested Data Types :  /n *.*						Request : winfr C: D:\ /regular /n *.*
+Date: 2023-06-10 23:48:19		Source: C:\		Destination: D:\		Mode: /regular		Requested Data Types :  /n *.*						Request : winfr C: D:\ /regular /n *.*
+Date: 2023-06-10 23:48:58		Source: C:\		Destination: D:\		Mode: /regular		Requested Data Types :  /n *.*						Request : winfr C: D:\ /regular /n *.*
+Date: 2023-06-11 00:22:14		Source: C:\		Destination: D:\		Mode: /regular		Requested Data Types :  /n *.*						Request : winfr C: D:\ /regular /n *.*
+Date: 2023-06-11 00:42:06		Source: C:\		Destination: D:\		Mode: /regular		Requested Data Types :  /n *.*						Request : winfr C: D:\ /regular /n *.*
+Date: 2023-06-11 01:01:07		Source: C:\		Destination: D:\		Mode: /regular		Requested Data Types :  /n *.*						Request : winfr C: D:\ /regular /n *.*
+Date: 2023-06-11 01:40:14		Source: D:\		Destination: C:\		Mode: /regular		Requested Data Types :  /n *.jpe /n *.jpeg /n *.jpg /n *.png						Request : winfr D: C:\ /regular /n *.jpe /n *.jpeg /n *.jpg /n *.png
+Date: 2023-06-11 01:41:56		Source: D:\		Destination: C:\		Mode: /regular		Requested Data Types :  /n *.jpe /n *.jpeg /n *.jpg /n *.png						Request : winfr D: C:\ /regular /n *.jpe /n *.jpeg /n *.jpg /n *.png
+Date: 2023-06-11 14:23:33		Source: D:\		Destination: C:\		Mode: /regular		Requested Data Types :  /n *.*						Request : winfr D: C:\ /regular /n *.*
+Date: 2023-06-11 14:26:24		Source: D:\		Destination: C:\		Mode: /regular		Requested Data Types :  /n *.*						Request : winfr D: C:\ /regular /n *.*
+Date: 2023-06-11 23:53:55		Source: D:\		Destination: C:\		Mode: /regular		Requested Data Types :  /n *.jpe /n *.jpeg /n *.jpg /n *.png						Request : winfr D: C:\ /regular /n *.jpe /n *.jpeg /n *.jpg /n *.png
+Date: 2023-06-11 23:56:17		Source: D:\		Destination: C:\		Mode: /regular		Requested Data Types :  /n *.jpe /n *.jpeg /n *.jpg /n *.png						Request : winfr D: C:\ /regular /n *.jpe /n *.jpeg /n *.jpg /n *.png
+Date: 2023-06-12 00:04:40		Source: D:\		Destination: C:\		Mode: /regular		Requested Data Types :  /n *.jpe /n *.jpeg /n *.jpg /n *.png						Request : winfr D: C:\ /regular /n *.jpe /n *.jpeg /n *.jpg /n *.png
+Date: 2024-05-28 17:42:31		Source: C:\		Destination: D:\lpnu		Mode: /regular /x		Requested Data Types :  y:mp3,mp4,						Request : winfr C: D:\lpnu /regular /x y:mp3,mp4,
+Date: 2024-05-28 17:42:41		Source: C:\		Destination: D:\lpnu		Mode: /regular /x		Requested Data Types :  y:mp3,mp4,						Request : winfr C: D:\lpnu /regular /x y:mp3,mp4,
+Date: 2024-05-28 17:42:47		Source: C:\		Destination: D:\lpnu		Mode: /regular /x		Requested Data Types :  y:mp3,mp4,						Request : winfr C: D:\lpnu /regular /x y:mp3,mp4,
+Date: 2024-05-28 17:42:52		Source: C:\		Destination: D:\lpnu		Mode: /extensive /x		Requested Data Types :  y:mp3,mp4,						Request : winfr C: D:\lpnu /extensive /x y:mp3,mp4,
+Date: 2024-05-28 17:43:15		Source: C:\		Destination: D:\lpnu		Mode: /regular /x		Requested Data Types :  y:mp3,mp4,						Request : winfr C: D:\lpnu /regular /x y:mp3,mp4,
+Date: 2024-05-28 17:44:14		Source: C:\		Destination: D:\lpnu		Mode: /regular /x		Requested Data Types :  y:doc,m4a,mov,mp3,mp4,mpeg,mpg,odf,pdf,						Request : winfr C: D:\lpnu /regular /x y:doc,m4a,mov,mp3,mp4,mpeg,mpg,odf,pdf,
+Date: 2024-05-28 17:44:25		Source: C:\		Destination: D:\lpnu		Mode: /regular /x		Requested Data Types :  y:doc,m4a,mov,mp3,mp4,mpeg,mpg,odf,pdf,						Request : winfr C: D:\lpnu /regular /x y:doc,m4a,mov,mp3,mp4,mpeg,mpg,odf,pdf,
+Date: 2024-05-28 17:45:55		Source: C:\		Destination: D:\lpnu		Mode: /regular /x		Requested Data Types :  y:doc,docx,pdf						Request : winfr C: D:\lpnu /regular /x y:doc,docx,pdf
+Date: 2024-05-28 17:46:05		Source: C:\		Destination: D:\lpnu		Mode: /regular /x		Requested Data Types :  y:doc,docx,pdf						Request : winfr C: D:\lpnu /regular /x y:doc,docx,pdf
+Date: 2024-05-28 17:46:09		Source: C:\		Destination: D:\lpnu		Mode: /regular /x		Requested Data Types :  y:doc,docx,pdf						Request : winfr C: D:\lpnu /regular /x y:doc,docx,pdf
+Date: 2024-05-28 17:47:59		Source: C:\		Destination: D:\lpnu		Mode: /regular /x		Requested Data Types :  /y:doc,docx,pdf						Request : winfr C: D:\lpnu /regular /x /y:doc,docx,pdf
+Date: 2024-06-01 18:48:29		Source: C:\		Destination: D:\lpnu		Mode: /regular /x		Requested Data Types :  /y:mp4,mpeg						Request : winfr C: D:\lpnu /regular /x /y:mp4,mpeg
+Date: 2024-06-03 22:41:09		Source: C:\		Destination: D:\lpnu\Recovery_20240601_184833		Mode: /extensive /x		Requested Data Types :  /y:doc,docx,pdf						Request : winfr C: D:\lpnu\Recovery_20240601_184833 /extensive /x /y:doc,docx,pdf
+Date: 2024-06-05 01:19:51		Source: C:\		Destination: D:\lpnu\Recovery_20240601_184833		Mode: /extensive /x		Requested Data Types :  /y:mov,mp3,mp4						Request : winfr C: D:\lpnu\Recovery_20240601_184833 /extensive /x /y:mov,mp3,mp4
+Date: 2024-06-09 20:04:37		Source: C:\		Destination: D:\lpnu\Recovery_20240601_184833\Recovery_20240605_011955		Mode: /extensive /x		Requested Data Types :  /y:mp4						Request : winfr C: D:\lpnu\Recovery_20240601_184833\Recovery_20240605_011955 /extensive /x /y:mp4
+Date: 2024-06-10 01:30:53		Source: C:\		Destination: D:\lpnu\Recovery_20240601_184833\Recovery_20240605_011955\Recovery_20240609_200443		Mode: /extensive /x		Requested Data Types :  /y:mp4						Request : winfr C: D:\lpnu\Recovery_20240601_184833\Recovery_20240605_011955\Recovery_20240609_200443 /extensive /x /y:mp4

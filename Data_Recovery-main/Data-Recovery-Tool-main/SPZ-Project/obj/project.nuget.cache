@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vweKAq5EtBUIAAaaw0ppXNUz97+PfpKPpiB03fed3QOGYMiQkBg0g469apjo1I9ID3NiSJ8KnVY419cFHqcGtg==",
+  "success": true,
+  "projectFilePath": "D:\\lpnu\\LPNU_Repos\\Data_Recovery\\Data-Recovery-Tool-main\\SPZ-Project\\SPZ-Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\popla\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\popla\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\popla\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\popla\\.nuget\\packages\\system.management\\7.0.1\\system.management.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
